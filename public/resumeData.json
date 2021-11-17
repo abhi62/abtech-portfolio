@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Abhishek Kumar",
+    "occupation": "Software Developer",
+    "description": "I Love React",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Abhishek! I am a Full-Stack Developer with 4.5+yr of exp and can efficiently code websites and applications using modern JavaScript frameworks and libraries like React, Redux, and tools like Git, Babel, and more in Front-end and Node.js, Express.js, MongoDB, in the Backend. I always like to write my code in modular ways so that help other developers to understand it easily. Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. It allows me to stay ahead of the curve and deliver exceptional work. I am always passionate about my work so it helps me to learn things quickly and brings ownership to my work.",
+    "contactmessage": "Get in touch with me",
+    "email": "abhi.op.93@gmail.com",
+    "phone": "+91 8088650567",
+    "address": {
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "website": "www.abtech.co.in",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PapaReact",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Tech Stack",
+    "education": [
+      {
+        "school": "Bachelor's Degree,",
+        "description": "Mechanical Engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sarva Yoga (Zorba Renaissance Pvt. Ltd)",
+        "title": "Software Engineer",
+        "years": "July 2021 - Present",
+        "description": ""
+      },
+      {
+        "company": "Pixotrack pvt ltd",
+        "title": "Co-Founder & Web Engineer",
+        "years": "Jun 2019 - Nov 2020",
+        "description": ""
+      },
+      {
+        "company": "Radtel india pvt ltd",
+        "title": "Web Engineer",
+        "years": "Mar 2019 - April 2019",
+        "description": ""
+      },
+      {
+        "company": "APROD MediaTech Pvt. Ltd.",
+        "title": "Web Developer",
+        "years": "Feb 2017 - Mar 2019",
+        "description": ""
+      },
+      {
+        "company": "APROD MediaTech Pvt. Ltd.",
+        "title": "Web Dev Intern ",
+        "years": "Feb 2016 - Mar 2017",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "68%"
+      },
+      {
+        "name": "UI Development",
+        "level": "80%"
+      },
+      {
+        "name": "Cypress(Testing)",
+        "level": "60%"
+      },
+      {
+        "name": "Digital Marketing",
+        "level": "40%"
+      },
+      {
+        "name": "SEO",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Instagram clone (Reactjs, Meterial UI, React Hooks.)",
+        "category": "",
+        "image": "instagram.png",
+        "url": "https://panda-instagram-ap.web.app/"
+      },
+      {
+        "title": "Netflix clone Web (ReactJs, CSS, React Hooks, Redux, Firebase)",
+        "category": "",
+        "image": "netflix-react.png",
+        "url": "https://github.com/abhi62/netflix-clone"
+      },
+      {
+        "title": "Snap Chat web (ReactJs, Meterial UI, React Hooks, Redux, Firebase, Firebase store)",
+        "category": "",
+        "image": "snap-chat.png",
+        "url": "https://abhi-snap-clone.web.app/"
+      },
+      {
+        "title": "Tinder clone (MongoDB, Express, React, Node JS)",
+        "category": "",
+        "image": "tinder.png",
+        "url": "https://panda-tinder-app.web.app/"
+      },
+      {
+        "title": "Video Call Web (ReactJs, Meterial UI, React Hooks, Redux, WebRTC Nodejs, Express.)",
+        "category": "",
+        "image": "video-chat.png",
+        "url": "https://panda-video-chat.netlify.app/"
+      },
+      {
+        "title": "Tvastra (Full Stack)",
+        "category": "",
+        "image": "tvastra-fs.png",
+        "url": "https://tavstra-abhi-konf.herokuapp.com/email-login"
+      }
+    ]
+  }
+}
