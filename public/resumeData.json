@@ -4,7 +4,7 @@
     "occupation": "Software Developer",
     "description": "I Love React",
     "image": "profilepic.png",
-    "bio": "Hi there! I am Abhishek! I am a Full-Stack Developer with 4.5+yr of exp and can efficiently code websites and applications using modern JavaScript frameworks and libraries like React, Redux, and tools like Git, Babel, and more in Front-end and Node.js, Express.js, MongoDB, in the Backend. I always like to write my code in modular ways so that help other developers to understand it easily. Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. It allows me to stay ahead of the curve and deliver exceptional work. I am always passionate about my work so it helps me to learn things quickly and brings ownership to my work.",
+    "bio": "Hi there, I am Abhishek and I am a UI Developer with 5+yr of exp and can efficiently code websites and applications using modern JavaScript frameworks and libraries like React, Redux, and tools like Git, Babel, and more in Front-end and Node.js, Express.js, MongoDB, in the Backend. I always like to write my code in modular ways so that help other developers to understand it easily. Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. It allows me to stay ahead of the curve and deliver exceptional work. I am always passionate about my work so it helps me to learn things quickly and brings ownership to my work.",
     "contactmessage": "Get in touch with me",
     "email": "abhi.op.93@gmail.com",
     "phone": "+91 8088650567",
@@ -100,6 +100,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Sarva front end (Reactjs, GrapgQL, GatsbyJs, Meterial UI, Styled comp)",
+        "category": "",
+        "image": "sarva.png",
+        "url": "https://sarva.com/"
+      },
       {
         "title": "Instagram clone (Reactjs, Meterial UI, React Hooks.)",
         "category": "",
