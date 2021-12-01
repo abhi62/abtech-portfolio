@@ -85,6 +85,10 @@
         "level": "80%"
       },
       {
+        "name": "UI Design(figma)",
+        "level": "40%"
+      },
+      {
         "name": "Cypress(Testing)",
         "level": "60%"
       },
@@ -92,6 +96,7 @@
         "name": "Digital Marketing",
         "level": "40%"
       },
+
       {
         "name": "SEO",
         "level": "60%"
@@ -105,6 +110,12 @@
         "category": "",
         "image": "sarva.png",
         "url": "https://sarva.com/"
+      },
+      {
+        "title": "Figma food app design",
+        "category": "",
+        "image": "figma_food.png",
+        "url": "#"
       },
       {
         "title": "Instagram clone (Reactjs, Meterial UI, React Hooks.)",
