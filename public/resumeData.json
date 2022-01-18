@@ -2,9 +2,9 @@
   "main": {
     "name": "Abhishek Kumar",
     "occupation": "Software Developer",
-    "description": "I Love React",
+    "description": "I Love to Design new things and solve problems.",
     "image": "profilepic.png",
-    "bio": "Hi there! I am Abhishek! I am a Full-Stack Developer with 4.5+yr of exp and can efficiently code websites and applications using modern JavaScript frameworks and libraries like React, Redux, and tools like Git, Babel, and more in Front-end and Node.js, Express.js, MongoDB, in the Backend. I always like to write my code in modular ways so that help other developers to understand it easily. Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. It allows me to stay ahead of the curve and deliver exceptional work. I am always passionate about my work so it helps me to learn things quickly and brings ownership to my work.",
+    "bio": "I experiment lot of things and get better at few of those. I Love to design new things and solve problems. Graduated as Mechanical engineer, but my curiosity toward how Information works forced me to learn Programming like c and c++, and from there my journey started, and since 2016 from C language, now as UI develope It has been 5+ years of journey. Have helped various startup to transform their idea into digital product. My objective is to RECOGNISE the business need and understand CUSTOMER and TRANSLATE requirements into design, prototype and then into live PRODUCT.  ",
     "contactmessage": "Get in touch with me",
     "email": "abhi.op.93@gmail.com",
     "phone": "+91 8088650567",
@@ -13,7 +13,7 @@
       "state": "Karnataka"
     },
     "website": "www.abtech.co.in",
-    "resumedownload": "",
+    "resumedownload": "https://drive.google.com/file/d/1RZKPXkeBkvoo2zIo3MX4fesSJUjYuUn9/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -39,50 +39,72 @@
       {
         "company": "Sarva Yoga (Zorba Renaissance Pvt. Ltd)",
         "title": "Software Engineer",
-        "years": "July 2021 - Present",
-        "description": ""
+        "years": "July 2021 - Nov 2021",
+        "description": [
+          " Responsible for Front End UI and Marketing page using Gatsby and react js. ",
+          ". Creating Test case to validate UI using cypress. ",
+          ". Making SEO friendly web pages to rank in search engine. ",
+          ". Used material UI and styled component to handle styling. ",
+          ". Backend Headless CMS contentfull and and for query used Graph QL. ",
+          ". Used Storybook for UI documentation."
+        ]
       },
       {
         "company": "Pixotrack pvt ltd",
         "title": "Co-Founder & Web Engineer",
         "years": "Jun 2019 - Nov 2020",
-        "description": ""
-      },
-      {
-        "company": "Radtel india pvt ltd",
-        "title": "Web Engineer",
-        "years": "Mar 2019 - April 2019",
-        "description": ""
+        "description": [
+          "Creating custom them for Wordpress. ",
+          "Creating dynamic pages using Javascript and handling servers. ",
+          "Developed Email filter tool to help Email marketing team so that they can reduce spam rate. ",
+          "Created Email marketing tool to scale over transactions worth more than millions of dollars."
+        ]
       },
       {
         "company": "APROD MediaTech Pvt. Ltd.",
         "title": "Web Developer",
-        "years": "Feb 2017 - Mar 2019",
-        "description": ""
+        "years": "jan 2017 - Mar 2019",
+        "description": [
+          " Responsible for Front End UI and Marketing page using Gatsby and react js. ",
+          ". Creating Test case to validate UI using cypress. ",
+          ". Making SEO friendly web pages to rank in search engine. ",
+          ". Used material UI and styled component to handle styling. ",
+          ". Backend Headless CMS contentfull and and for query used Graph QL. ",
+          ". Used Storybook for UI documentation."
+        ]
       },
       {
         "company": "APROD MediaTech Pvt. Ltd.",
         "title": "Web Dev Intern ",
-        "years": "Feb 2016 - Mar 2017",
-        "description": ""
+        "years": "Feb 2016 - jan 2017",
+        "description": [
+          "Creating Basic static web pages. ",
+          "Making Emailer campaign for marketing team. ",
+          "Worked very closely with marketing team. ",
+          "Learning how to Work with Wordpress and created multiple blog website."
+        ]
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "70%"
-      },
-      {
-        "name": "Git",
-        "level": "75%"
-      },
       {
         "name": "JavaScript",
         "level": "68%"
       },
       {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
         "name": "UI Development",
         "level": "80%"
+      },
+      {
+        "name": "UI Design(figma)",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
       },
       {
         "name": "Cypress(Testing)",
@@ -92,6 +114,7 @@
         "name": "Digital Marketing",
         "level": "40%"
       },
+
       {
         "name": "SEO",
         "level": "60%"
@@ -100,6 +123,18 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Sarva front end (Reactjs, GrapgQL, GatsbyJs, Meterial UI, Styled comp)",
+        "category": "",
+        "image": "sarva.png",
+        "url": "https://sarva.com/"
+      },
+      {
+        "title": "Figma food app design",
+        "category": "",
+        "image": "figma_food.png",
+        "url": "#"
+      },
       {
         "title": "Instagram clone (Reactjs, Meterial UI, React Hooks.)",
         "category": "",
