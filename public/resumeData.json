@@ -42,11 +42,11 @@
         "years": "July 2021 - Nov 2021",
         "description": [
           " Responsible for Front End UI and Marketing page using Gatsby and react js. ",
-          ". Creating Test case to validate UI using cypress. ",
-          ". Making SEO friendly web pages to rank in search engine. ",
-          ". Used material UI and styled component to handle styling. ",
-          ". Backend Headless CMS contentfull and and for query used Graph QL. ",
-          ". Used Storybook for UI documentation."
+          "Creating Test case to validate UI using cypress. ",
+          "Making SEO friendly web pages to rank in search engine. ",
+          "Used material UI and styled component to handle styling. ",
+          "Backend Headless CMS contentfull and and for query used Graph QL. ",
+          "Used Storybook for UI documentation."
         ]
       },
       {
@@ -54,10 +54,13 @@
         "title": "Co-Founder & Web Engineer",
         "years": "Jun 2019 - Nov 2020",
         "description": [
-          "Creating custom them for Wordpress. ",
-          "Creating dynamic pages using Javascript and handling servers. ",
-          "Developed Email filter tool to help Email marketing team so that they can reduce spam rate. ",
-          "Created Email marketing tool to scale over transactions worth more than millions of dollars."
+          "Responsible to Design, Develop, Test and Deploy Digital product. ",
+          "Design E-commerce UI from scratch using Figma. ",
+          "Used React.js for front end and redux for state management. ",
+          "Recruited and lead a team of 8 Web. ",
+          "Designed and revamped the entire web presence.",
+          "Leading the internship program with more than 22 interns. ",
+          "Analyzed the needs operations team and automated their processes."
         ]
       },
       {
@@ -65,12 +68,10 @@
         "title": "Web Developer",
         "years": "jan 2017 - Mar 2019",
         "description": [
-          " Responsible for Front End UI and Marketing page using Gatsby and react js. ",
-          ". Creating Test case to validate UI using cypress. ",
-          ". Making SEO friendly web pages to rank in search engine. ",
-          ". Used material UI and styled component to handle styling. ",
-          ". Backend Headless CMS contentfull and and for query used Graph QL. ",
-          ". Used Storybook for UI documentation."
+          "Creating custom them for Wordpress. ",
+          "Creating dynamic pages using Javascript and handling servers. ",
+          "Developed Email filter tool to help Email marketing team so that they can reduce spam rate. ",
+          "Created Email marketing tool to scale over transactions worth more than millions of dollars."
         ]
       },
       {
