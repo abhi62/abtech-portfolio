@@ -37,6 +37,20 @@
     ],
     "work": [
       {
+        "company": "Groyyo Private Limited",
+        "title": "Product Engineer",
+        "years": "April 2022 - Present",
+        "description": [
+          "Focusing primarily on solution for B2B saas Factory Application. ",
+          "Creating Features and ",
+          "Using Javascript eco system with React and Nextjs. ",
+          "Creating Test case to validate UI using cypress. ",
+          "Designing ui using Figma. ",
+          "Used Ant Design and styled component to handle styling. ",
+          "Making SEO friendly web pages to rank in search engine. "
+        ]
+      },
+      {
         "company": "Sarva Yoga (Zorba Renaissance Pvt. Ltd)",
         "title": "Software Engineer",
         "years": "July 2021 - Nov 2021",
