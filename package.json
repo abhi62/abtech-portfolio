@@ -17,7 +17,7 @@
   "scripts": {
     "dev": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "main -d build",
     "build": "react-scripts build",
     "build:and:test": "start-server-and-test dev http://localhost:3000 cy:run",
     "test": "react-scripts test",
