@@ -1,19 +1,25 @@
 {
   "main": {
     "name": "Abhishek Kumar",
-    "occupation": "Software Developer",
-    "description": "I Love to Design new things and solve problems.",
+    "occupation": "Technical Lead",
+    "description": "",
     "image": "profilepic.png",
-    "bio": "I experiment lot of things and get better at few of those. I Love to design new things and solve problems. Graduated as Mechanical engineer, but my curiosity toward how Information works forced me to learn Programming like c and c++, and from there my journey started, and since 2016 from C language, now as UI develope It has been 5+ years of journey. Have helped various startup to transform their idea into digital product. My objective is to RECOGNISE the business need and understand CUSTOMER and TRANSLATE requirements into design, prototype and then into live PRODUCT.  ",
+    "bio": [
+      "🚀 Who I Am: I’m a software developer with over 8+ years of experience specializing in high-performance web and mobile applications, as well as sophisticated backend solutions.",
+      "🛠️ My Technical Journey: I have successfully delivered numerous projects across domains like embedded systems and IoT, bridging technical and strategic development.",
+      "💼 Professional Highlights: I have contributed to complex projects requiring deep technical knowledge, transitioning seamlessly between development and tech-integrated marketing strategies.",
+      "🤖 AI & Machine Learning Enthusiast: I am passionate about leveraging AI to predict user behavior and automate processes, enhancing efficiency and accuracy.",
+      "🌐 Beyond Code: I combine technology and marketing to create analytical and creative solutions, driving success in competitive markets."
+    ],
     "contactmessage": "Get in touch with me",
     "email": "abhi.op.93@gmail.com",
-    "phone": "+91 8088650567",
+    "phone": "+91 7975567840",
     "address": {
       "city": "Bengaluru",
       "state": "Karnataka"
     },
     "website": "www.abtech.co.in",
-    "resumedownload": "https://drive.google.com/file/d/1RZKPXkeBkvoo2zIo3MX4fesSJUjYuUn9/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1fWXwqJIzppM444s5vAQ4PDFS4bnKpuHd/view?usp=drive_link",
     "social": [
       {
         "name": "linkedin",
@@ -36,6 +42,19 @@
       }
     ],
     "work": [
+      {
+        "company": "Groyyo",
+        "title": "Technical Lead",
+        "years": "July 2022 - Now",
+        "description": [
+          " Responsible for Front End UI and Marketing page using Gatsby and react js. ",
+          "Creating Test case to validate UI using cypress. ",
+          "Making SEO friendly web pages to rank in search engine. ",
+          "Used material UI and styled component to handle styling. ",
+          "Backend Headless CMS contentfull and and for query used Graph QL. ",
+          "Used Storybook for UI documentation."
+        ]
+      },
       {
         "company": "Sarva Yoga (Zorba Renaissance Pvt. Ltd)",
         "title": "Software Engineer",
@@ -140,7 +159,7 @@
         "title": "Instagram clone (Reactjs, Meterial UI, React Hooks.)",
         "category": "",
         "image": "instagram.png",
-        "url": "https://panda-instagram-ap.web.app/"
+        "url": "#"
       },
       {
         "title": "Netflix clone Web (ReactJs, CSS, React Hooks, Redux, Firebase)",
