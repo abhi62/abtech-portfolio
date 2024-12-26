@@ -45,5 +45,9 @@
   },
   "devDependencies": {
     "start-server-and-test": "^1.14.0"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": ">=6.x"
   }
 }
