@@ -37,6 +37,19 @@
     ],
     "work": [
       {
+        "company": "Groyyo",
+        "title": "Technical Lead",
+        "years": "July 2022 - Now",
+        "description": [
+          " Responsible for Front End UI and Marketing page using Gatsby and react js. ",
+          "Creating Test case to validate UI using cypress. ",
+          "Making SEO friendly web pages to rank in search engine. ",
+          "Used material UI and styled component to handle styling. ",
+          "Backend Headless CMS contentfull and and for query used Graph QL. ",
+          "Used Storybook for UI documentation."
+        ]
+      },
+      {
         "company": "Sarva Yoga (Zorba Renaissance Pvt. Ltd)",
         "title": "Software Engineer",
         "years": "July 2021 - Nov 2021",
