@@ -4,7 +4,13 @@
     "occupation": "Technical Lead",
     "description": "",
     "image": "profilepic.png",
-    "bio": "I experiment a lot of things and get better at few of those. I love to design new things and solving problems. Graduated as Mechanical engineer, but my curiosity toward how Information works forced me to learn Programming like c and c++, and from there my journey started, and since 2016 from C language, now as UI developer It has been 5+ years of journey. Have helped various startups to transform their idea into digital products. My objective is to RECOGNISE the business need and understand CUSTOMER and TRANSLATE requirements into design, prototype and then into live PRODUCT.",
+    "bio": [
+      "🚀 Who I Am: I’m a software developer with over 8+ years of experience specializing in high-performance web and mobile applications, as well as sophisticated backend solutions.",
+      "🛠️ My Technical Journey: I have successfully delivered numerous projects across domains like embedded systems and IoT, bridging technical and strategic development.",
+      "💼 Professional Highlights: I have contributed to complex projects requiring deep technical knowledge, transitioning seamlessly between development and tech-integrated marketing strategies.",
+      "🤖 AI & Machine Learning Enthusiast: I am passionate about leveraging AI to predict user behavior and automate processes, enhancing efficiency and accuracy.",
+      "🌐 Beyond Code: I combine technology and marketing to create analytical and creative solutions, driving success in competitive markets."
+    ],
     "contactmessage": "Get in touch with me",
     "email": "abhi.op.93@gmail.com",
     "phone": "+91 7975567840",

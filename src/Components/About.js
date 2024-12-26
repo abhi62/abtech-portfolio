@@ -27,7 +27,11 @@ const About = ({ data }) => {
         <div className="nine columns main-col">
           <h2>About Me</h2>
 
-          <p>{bio}</p>
+          {bio?.map((a, index) => (
+            <p style={{ marginBottom: "-5px" }} key={index}>
+              {a}
+            </p>
+          ))}
           <div className="row">
             <div className="columns contact-details">
               <h2>Contact Details</h2>
