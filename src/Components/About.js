@@ -15,23 +15,23 @@ const About = ({ data }) => {
   }
 
   return (
-    <section id='about'>
-      <div className='row'>
-        <div className='three columns'>
+    <section id="about">
+      <div className="row">
+        <div className="three columns">
           <img
-            className='profile-pic'
+            className="profile-pic"
             src={profilepic}
             alt="Abhishek's Profile Pic"
           />
         </div>
-        <div className='nine columns main-col'>
+        <div className="nine columns main-col">
           <h2>About Me</h2>
 
           <p>{bio}</p>
-          <div className='row'>
-            <div className='columns contact-details'>
+          <div className="row">
+            <div className="columns contact-details">
               <h2>Contact Details</h2>
-              <p className='address'>
+              <p className="address">
                 <span>{name}</span>
                 <br />
                 <span>
@@ -45,10 +45,10 @@ const About = ({ data }) => {
                 <span>{email}</span>
               </p>
             </div>
-            <div className='columns download'>
+            <div className="columns download">
               <p>
-                <a href={resumeDownload} className='button'>
-                  <i className='fa fa-download'></i>Download Resume
+                <a href={resumeDownload} target="_blank" className="button">
+                  <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
             </div>

@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Abhishek Kumar",
-    "occupation": "Software Developer",
-    "description": "I Love to Design new things and solving problems.",
+    "occupation": "Technical Lead",
+    "description": "",
     "image": "profilepic.png",
     "bio": "I experiment a lot of things and get better at few of those. I love to design new things and solving problems. Graduated as Mechanical engineer, but my curiosity toward how Information works forced me to learn Programming like c and c++, and from there my journey started, and since 2016 from C language, now as UI developer It has been 5+ years of journey. Have helped various startups to transform their idea into digital products. My objective is to RECOGNISE the business need and understand CUSTOMER and TRANSLATE requirements into design, prototype and then into live PRODUCT.",
     "contactmessage": "Get in touch with me",
     "email": "abhi.op.93@gmail.com",
-    "phone": "+91 8088650567",
+    "phone": "+91 7975567840",
     "address": {
       "city": "Bengaluru",
       "state": "Karnataka"
