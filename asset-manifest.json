@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/abtech-portfolio/static/css/main.bb289cb2.chunk.css",
+    "main.js": "/abtech-portfolio/static/js/main.3ca6d237.chunk.js",
+    "main.js.map": "/abtech-portfolio/static/js/main.3ca6d237.chunk.js.map",
+    "runtime-main.js": "/abtech-portfolio/static/js/runtime-main.e2251d7f.js",
+    "runtime-main.js.map": "/abtech-portfolio/static/js/runtime-main.e2251d7f.js.map",
+    "static/js/2.fbd70831.chunk.js": "/abtech-portfolio/static/js/2.fbd70831.chunk.js",
+    "static/js/2.fbd70831.chunk.js.map": "/abtech-portfolio/static/js/2.fbd70831.chunk.js.map",
+    "index.html": "/abtech-portfolio/index.html",
+    "static/css/main.bb289cb2.chunk.css.map": "/abtech-portfolio/static/css/main.bb289cb2.chunk.css.map",
+    "static/js/2.fbd70831.chunk.js.LICENSE.txt": "/abtech-portfolio/static/js/2.fbd70831.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2251d7f.js",
+    "static/js/2.fbd70831.chunk.js",
+    "static/css/main.bb289cb2.chunk.css",
+    "static/js/main.3ca6d237.chunk.js"
+  ]
+}
