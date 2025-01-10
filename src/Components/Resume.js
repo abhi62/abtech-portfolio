@@ -1,62 +1,85 @@
 import React from "react";
 
 const Resume = ({ data }) => {
-  if (data) {
-    var skillmessage = data.skillmessage;
-    var education = data.education.map(function (education) {
+  if (!data) return null;
+
+  const {
+    skillmessage,
+    education = [],
+    work = [],
+    coreSkills = [],
+    secondarySkills = [],
+  } = data;
+
+  const renderHTML = (html) => ({ __html: html });
+
+  const renderEducation = () =>
+    education.map((edu, index) => (
+      <div key={index}>
+        <h3>{edu.school}</h3>
+        {edu.description ? (
+          <p dangerouslySetInnerHTML={renderHTML(edu.description)} />
+        ) : (
+          <p>No description available.</p>
+        )}
+      </div>
+    ));
+
+  const renderWork = () =>
+    work.map((job, index) => (
+      <div key={index}>
+        <h3>{job.company}</h3>
+        <p className="info">
+          <span dangerouslySetInnerHTML={renderHTML(job.title)} />
+          <span>&bull;</span> <em className="date">{job.years}</em>
+        </p>
+        {job.description?.length > 0 ? (
+          <ul>
+            {job.description.map((desc, idx) => (
+              <li style={{ marginBottom: "12px" }} key={idx}>
+                <span dangerouslySetInnerHTML={renderHTML(desc)} />
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p>No job description provided.</p>
+        )}
+      </div>
+    ));
+
+  const renderCoreSkills = () =>
+    coreSkills.map((skill, index) => {
+      const className = `bar-expand ${skill.name.toLowerCase()}`;
       return (
-        <div key={education.school}>
-          <h3>{education.school}</h3>
-          {/* <p className='info'>
-            {education.degree} <span>&bull;</span>
-            <em className='date'>{education.graduated}</em>
-          </p> */}
-          <p>{education.description}</p>
-        </div>
-      );
-    });
-    var work = data.work.map(function (work) {
-      return (
-        <div key={work.company}>
-          <h3>{work.company}</h3>
-          <p className="info">
-            {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
-          </p>
-          {work.description?.map((a, index) => (
-            <p style={{ marginBottom: "-2px" }} key={index}>
-              {a}
-            </p>
-          ))}
-        </div>
-      );
-    });
-    var skills = data.skills.map(function (skills) {
-      var className = "bar-expand " + skills.name.toLowerCase();
-      return (
-        <li key={skills.name}>
-          <span style={{ width: skills.level }} className={className}></span>
-          <em>{skills.name}</em>
+        <li key={index}>
+          <em>{skill.name}</em>
         </li>
       );
     });
-  }
+  const renderSecondarySkills = () =>
+    secondarySkills.map((skill, index) => {
+      const className = `bar-expand ${skill.name.toLowerCase()}`;
+      return (
+        <li key={index}>
+          <em>{skill.name}</em>
+        </li>
+      );
+    });
 
   return (
     <section id="resume">
-      <div className="row education">
+      {/* <div className="row education">
         <div className="three columns header-col">
           <h1>
             <span>Education</span>
           </h1>
         </div>
-
         <div className="nine columns main-col">
           <div className="row item">
-            <div className="twelve columns">{education}</div>
+            <div className="twelve columns">{renderEducation()}</div>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className="row work">
         <div className="three columns header-col">
@@ -64,22 +87,40 @@ const Resume = ({ data }) => {
             <span>Work</span>
           </h1>
         </div>
-
-        <div className="nine columns main-col">{work}</div>
+        <div className="nine columns main-col">{renderWork()}</div>
       </div>
+      <div>
+        <div className="row skills-container">
+          <div className="skill-section">
+            <div className="header-col">
+              <h1>
+                <span>Core Skills</span>
+              </h1>
+            </div>
+            <div className="main-col">
+              {skillmessage ? (
+                <p dangerouslySetInnerHTML={renderHTML(skillmessage)} />
+              ) : (
+                <p></p>
+              )}
+              <ul className="skills">{renderCoreSkills()}</ul>
+            </div>
+          </div>
 
-      <div className="row skill">
-        <div className="three columns header-col">
-          <h1>
-            <span>Skills</span>
-          </h1>
-        </div>
-
-        <div className="nine columns main-col">
-          <p>{skillmessage}</p>
-
-          <div className="bars">
-            <ul className="skills">{skills}</ul>
+          <div className="skill-section">
+            <div className="header-col">
+              <h1>
+                <span>Secondary Skills</span>
+              </h1>
+            </div>
+            <div className="main-col">
+              {skillmessage ? (
+                <p dangerouslySetInnerHTML={renderHTML(skillmessage)} />
+              ) : (
+                <p></p>
+              )}
+              <ul className="skills">{renderSecondarySkills()}</ul>
+            </div>
           </div>
         </div>
       </div>
