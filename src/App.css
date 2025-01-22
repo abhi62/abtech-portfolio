@@ -3,3 +3,42 @@
   border-radius: 5px;
   padding: 20px;
 }
+
+.skills-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.skill-section {
+  flex: 1; 
+  display: flex;
+  flex-direction: column;
+}
+
+.header-col h1 span {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  color: #333;
+}
+
+.main-col {
+  margin-top: 10px;
+}
+
+.skills {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.skills li {
+  margin-bottom: 10px;
+}
+
+.skills-container .skill-section {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

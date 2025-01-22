@@ -1,19 +1,25 @@
 {
   "main": {
     "name": "Abhishek Kumar",
-    "occupation": "Software Developer",
-    "description": "I Love to Design new things and solve problems.",
+    "occupation": "Tech aficionado",
+    "description": "",
     "image": "profilepic.png",
-    "bio": "I experiment lot of things and get better at few of those. I Love to design new things and solve problems. Graduated as Mechanical engineer, but my curiosity toward how Information works forced me to learn Programming like c and c++, and from there my journey started, and since 2016 from C language, now as UI develope It has been 5+ years of journey. Have helped various startup to transform their idea into digital product. My objective is to RECOGNISE the business need and understand CUSTOMER and TRANSLATE requirements into design, prototype and then into live PRODUCT.  ",
+    "bio": [
+      "🚀 Who I Am: I’m a software developer with over 8+ years of experience specializing in high-performance web and mobile applications, as well as sophisticated backend solutions.",
+      "🛠️ My Technical Journey: I have successfully delivered numerous projects across domains like embedded systems and IoT, bridging technical and strategic development.",
+      "💼 Professional Highlights: I have contributed to complex projects requiring deep technical knowledge, transitioning seamlessly between development and tech-integrated marketing strategies.",
+      "🤖 AI & Machine Learning Enthusiast: I am passionate about leveraging AI to predict user behavior and automate processes, enhancing efficiency and accuracy.",
+      "🌐 Beyond Code: I combine technology and marketing to create analytical and creative solutions, driving success in competitive markets."
+    ],
     "contactmessage": "Get in touch with me",
     "email": "abhi.op.93@gmail.com",
-    "phone": "+91 8088650567",
+    "phone": "+91 7975567840",
     "address": {
       "city": "Bengaluru",
       "state": "Karnataka"
     },
     "website": "www.abtech.co.in",
-    "resumedownload": "https://drive.google.com/file/d/1RZKPXkeBkvoo2zIo3MX4fesSJUjYuUn9/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1xRTN3ckBJQGaod2yTRu5LFc-x4v43QZ4/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -28,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Tech Stack",
+    "skillmessage": "",
     "education": [
       {
         "school": "Bachelor's Degree,",
@@ -37,87 +43,176 @@
     ],
     "work": [
       {
+        "company": "Groyyo (Apr 2022 - Now)",
+        "title": "<u>Tech Lead (React, React Native, Storybook, JS, LLM)</u>",
+        "years": "July 2023 - Now",
+        "description": [
+          "<b>AI Agent Development:</b> Built an AI agent for the apparel industry on web and mobile using React, React Native, and ML models.",
+          "<b>UI Component Library:</b> Developed a scalable component library with Storybook and custom CSS.",
+          "<b>Team Mentorship:</b> Mentored 8+ developers, enhancing their skills and project outcomes.",
+          "<b>ERP Solution:</b> Led the development of Groyyo Plus, an ERP solution with a React Native app and React dashboard."
+        ]
+      },
+      {
+        "company": "",
+        "title": "<u>Senior Product Developer (React, Material UI, Figma, Tailwind)</u>",
+        "years": "Jan 2023 - July 2023",
+        "description": [
+          "<b>UI Development Lead:</b> Led the UI development for Intent360, including modules like Quality, Production, Planning, and Inventory, using React-, Material UI, Figma, and Tailwind CSS",
+          "<b>User-Friendly Interfaces:</b> Built intuitive UIs focused on enhancing usability and user experience."
+        ]
+      },
+      {
+        "company": "",
+        "title": "<u>Product Developer (Next.js, Cypress, MUI)</u>",
+        "years": "Apr 2022 - Dec 2022",
+        "description": [
+          "<b>Core Product UI & Landing Pages:</b> Delivered seamless UI for core products and dynamic marketing landing pages, driving user engagement.",
+          "<b>E-commerce System:</b> Built an e-commerce platform with dynamic product displays and optimized checkouts using Next.js."
+        ]
+      },
+      {
         "company": "Sarva Yoga (Zorba Renaissance Pvt. Ltd)",
-        "title": "Software Engineer",
+        "title": "<u>Software Engineer(Gatsbi, MUI, CMS, styled component, cypress, seo)</u>",
         "years": "July 2021 - Nov 2021",
         "description": [
-          " Responsible for Front End UI and Marketing page using Gatsby and react js. ",
-          "Creating Test case to validate UI using cypress. ",
-          "Making SEO friendly web pages to rank in search engine. ",
-          "Used material UI and styled component to handle styling. ",
-          "Backend Headless CMS contentfull and and for query used Graph QL. ",
-          "Used Storybook for UI documentation."
+          "<b>Front-End Development:</b> Led the development of Front End UI and marketing pages using Gatsby and ReactJS, ensuring a seamless user experience and brand consistency",
+          "<b>Testing & Quality Assurance:</b> Implemented test cases with Cypress to validate UI functionality and deliver high-quality outputs.",
+          "<b>SEO Optimization:</b> Optimized web pages for SEO, boosting search engine rankings and improving organic visibility.",
+          "<b>Styling Frameworks:</b> Utilized Material UI and Styled Components to enhance styling effciency and user engagement.",
+          "<b>Headless CMS Integration:</b> Integrated Contentful for backend management and employed GraphQL for effcient content querying.",
+          "<b>UI Documentation:</b> Leveraged Storybook for comprehensive UI documentation, promoting collaboration and consistency across teams."
         ]
       },
       {
-        "company": "Pixotrack pvt ltd",
-        "title": "Co-Founder & Web Engineer",
+        "company": "Pixotrack pvt ltd (Jun 2019 - Nov 2020)",
+        "title": "<u>Co-founder and Web Engineer</u>",
         "years": "Jun 2019 - Nov 2020",
         "description": [
-          "Responsible to Design, Develop, Test and Deploy Digital product. ",
-          "Design E-commerce UI from scratch using Figma. ",
-          "Used React.js for front end and redux for state management. ",
-          "Recruited and lead a team of 8 Web. ",
-          "Designed and revamped the entire web presence.",
-          "Leading the internship program with more than 22 interns. ",
-          "Analyzed the needs operations team and automated their processes."
+          "<b>Product Development:</b> Oversaw the end-to-end digital product lifecycle, from design and development to testing and deployment.",
+          "<b>E-commerce Platform:</b> Architected and built an e-commerce platform using Figma and the MERN stack, enhancing scalability and user experience.",
+          "<b>Team Leadership:</b> Directed a team of 8 developers, ensuring collaboration and timely achievement of project milestones.",
+          "<b>Process Optimization:</b> Analyzed operational requirements and implemented automation solutions to streamline processes and boost effciency."
         ]
       },
       {
-        "company": "APROD MediaTech Pvt. Ltd.",
-        "title": "Web Developer",
+        "company": "APROD MediaTech Pvt. Ltd.(Feb 2016 - Mar 2019)",
+        "title": "<u>Web Developer (HTML, CSS, JS, WordPress, PHP)</u>",
         "years": "jan 2017 - Mar 2019",
         "description": [
-          "Creating custom them for Wordpress. ",
-          "Creating dynamic pages using Javascript and handling servers. ",
-          "Developed Email filter tool to help Email marketing team so that they can reduce spam rate. ",
-          "Created Email marketing tool to scale over transactions worth more than millions of dollars."
+          "<b>Custom WordPress Development:</b> Designed and developed custom WordPress themes to meet client-specifc requirements, improving functionality and aesthetics.",
+          "<b>Dynamic Web Pages:</b> Utilized JavaScript to create interactive web pages, enhancing user engagement and experience.",
+          "<b>Email Filter Tool:</b> Engineered an email flter tool to assist the email marketing team in reducing spam rates and optimizing campaigns.",
+          "<b>Email Marketing Tool:</b> Led the development of an email marketing tool-, enabling the management of high-value transactions exceeding millions of dollars."
         ]
       },
       {
-        "company": "APROD MediaTech Pvt. Ltd.",
-        "title": "Web Dev Intern ",
-        "years": "Feb 2016 - jan 2017",
+        "company": "",
+        "title": "<u>Intern (HTML, CSS, JS, WordPress)</u>",
+        "years": "Fab 2016 - Jan 2017",
         "description": [
-          "Creating Basic static web pages. ",
-          "Making Emailer campaign for marketing team. ",
-          "Worked very closely with marketing team. ",
-          "Learning how to Work with Wordpress and created multiple blog website."
+          "<b>Email Campaigns:</b> Led email campaign initiatives with the marketing team, driving impactful outreach and effective communication",
+          "<b>UI Support:</b> Translated marketing team UI requirements into actionable design solutions.",
+          "<b>WordPress Development:</b> Gained expertise in WordPress, developing and managing multiple dynamic blog websites.",
+          "<b> Landing Pages:</b> Designed and implemented static landing pages, enhancing user engagement and boosting conversion rates."
         ]
       }
     ],
-    "skills": [
+    "coreSkills": [
       {
         "name": "JavaScript",
         "level": "68%"
       },
       {
-        "name": "ReactJs",
+        "name": "ReactJS",
         "level": "70%"
       },
       {
-        "name": "UI Development",
+        "name": "NextJS",
         "level": "80%"
       },
       {
-        "name": "UI Design(figma)",
+        "name": "Tailwind",
         "level": "40%"
       },
       {
-        "name": "Git",
+        "name": "Redux",
         "level": "75%"
       },
       {
-        "name": "Cypress(Testing)",
+        "name": "StoryBook",
         "level": "60%"
       },
       {
-        "name": "Digital Marketing",
+        "name": "TypeScript",
         "level": "40%"
       },
 
       {
+        "name": "HTML + CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Figma",
+        "level": "60%"
+      },
+      {
         "name": "SEO",
+        "level": "60%"
+      }
+    ],
+    "secondarySkills": [
+      {
+        "name": "NodeJS",
+        "level": "68%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "70%"
+      },
+      {
+        "name": "NestJS",
+        "level": "80%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "40%"
+      },
+      {
+        "name": "LLM",
+        "level": "75%"
+      },
+      {
+        "name": " AI Agent",
+        "level": "60%"
+      },
+      {
+        "name": "open & Dall-e api",
+        "level": "40%"
+      },
+
+      {
+        "name": "ReactNative",
+        "level": "60%"
+      },
+      {
+        "name": "Deployment",
+        "level": "60%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      },
+      {
+        "name": "Kuber",
+        "level": "60%"
+      },
+      {
+        "name": "Prometheus",
+        "level": "60%"
+      },
+      {
+        "name": "Grafana",
         "level": "60%"
       }
     ]
@@ -140,7 +235,7 @@
         "title": "Instagram clone (Reactjs, Meterial UI, React Hooks.)",
         "category": "",
         "image": "instagram.png",
-        "url": "https://panda-instagram-ap.web.app/"
+        "url": "#"
       },
       {
         "title": "Netflix clone Web (ReactJs, CSS, React Hooks, Redux, Firebase)",
