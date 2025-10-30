@@ -19,7 +19,7 @@
       "state": "Karnataka"
     },
     "website": "www.abtech.co.in",
-    "resumedownload": "https://drive.google.com/file/d/1xRTN3ckBJQGaod2yTRu5LFc-x4v43QZ4/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/12xy22yLageYzK8wohmntxKuzqFuqvPuj/view?usp=drive_link",
     "social": [
       {
         "name": "linkedin",
@@ -223,7 +223,7 @@
         "title": "Sarva front end (Reactjs, GrapgQL, GatsbyJs, Meterial UI, Styled comp)",
         "category": "",
         "image": "sarva.png",
-        "url": "https://sarva.com/"
+        "url": ""
       },
       {
         "title": "Figma food app design",
@@ -241,7 +241,7 @@
         "title": "Netflix clone Web (ReactJs, CSS, React Hooks, Redux, Firebase)",
         "category": "",
         "image": "netflix-react.png",
-        "url": "https://github.com/abhi62/netflix-clone"
+        "url": "#"
       },
       {
         "title": "Snap Chat web (ReactJs, Meterial UI, React Hooks, Redux, Firebase, Firebase store)",
